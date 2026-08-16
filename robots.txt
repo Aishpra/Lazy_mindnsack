@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin.php
+Disallow: /config.php
+Disallow: /submit-lead.php
+
+Sitemap: https://lazy.themindsnack.com/sitemap.xml
